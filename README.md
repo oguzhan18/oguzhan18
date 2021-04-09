@@ -5,9 +5,15 @@
 - 📫 e-mail oguzhancart1@gmail.com or telegram nickname @CARTAPP or Instagram oguzhan_cart you can reach with ...
 - 💼 I can work anywhere...
 - 📕 I have projects and certificates...
+#
 
+<a target="_blank" href="https://www.instagram.com/oguzhan_cart/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a target="_blank" href="https://twitter.com/OguzhanCart">
+  <img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a target="_blank" href="https://github.com/oguzhan18">
+  <img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-<!---
-oguzhan18/oguzhan18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
