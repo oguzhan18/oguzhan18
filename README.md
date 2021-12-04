@@ -94,14 +94,6 @@
 <a target="_blank" href="#">
   <img align="left" alt="sql" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/webgl.svg" title="OpenGL">
 </a> 
-<img    width="500" align="center" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"> 
 
-
-
-
-
-
-
-
-
-
+<img    width="1000" align="right" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"> 
+<img    width="800" align="center" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"> 
