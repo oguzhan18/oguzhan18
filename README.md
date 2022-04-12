@@ -1,6 +1,4 @@
-
-## Oğuzhan ÇART
- 
+## Oğuzhan ÇART   <img    width="250" align="right" src="https://camo.githubusercontent.com/1e5e50f225f7a5ce8aea2a88ed1e3063209bf66a27a4243e16e9775a61dd0c7b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37302f38302f34662f37303830346637653235623131663239646239303466326661376234636439642e676966"> 
 <p>:computer: Web | Mobile Developer</p>
 
 
@@ -33,6 +31,3 @@
 <a target="_blank" href="https://t.me/csharp_document_kaynak">
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"></code>
 </a>
-
-
-<img    width="1000" align="right" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"> 
