@@ -17,6 +17,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <br />
+<img height="250" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=oguzhan18">
+<img height="150" algin="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=oguzhan18&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
 
 ## Contact;
 <a target="_blank" href="https://www.instagram.com/oguzhan_cart/">
