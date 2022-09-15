@@ -33,7 +33,4 @@
 </a>
 <a target="_blank" href="https://t.me/csharp_document_kaynak">
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"></code>
-</a>
-
-### Spotify Playing :violin: :notes:
-[![Spotify](https://novatorem-31j6rkoadxgyjyje6tqyj4557yuq.vercel.app/api/spotify)](https://open.spotify.com/user/abqgvoauwe1v0hexl8f2psxjf)  
+</a> 
