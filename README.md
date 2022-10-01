@@ -14,7 +14,7 @@
 </table>
 
 
-|Mobile|Database|Devops|
+|Mobile|Database|DevOps|
 |--|--|--|
 |<table><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="80" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="60" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" width="80" height="60"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" width="70" height="50"><img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" width="60" height="50"></table>| <table> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="70" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="80" height="50"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="80" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="60" height="50"></table>|<table>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="50">
