@@ -26,7 +26,7 @@
 
 <h2 align="center">Social Media</h2>
 <p align="center">
-<a href="https://codepen.io/oguzhan1881" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="oguzhan1881" height="30" width="40" /></a>
+<a href="https://codepen.io/oguzhan1881" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="oguzhan1881" height="30" width="40" /></a>
 <a href="https://dev.to/oguzhan18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="oguzhan18" height="30" width="40" /></a>
 <a href="https://twitter.com/oguzhancart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oguzhancart" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/o%c4%9fuzhan-%c3%a7art-b73405199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="o%c4%9fuzhan-%c3%a7art-b73405199/" height="30" width="40" /></a>
