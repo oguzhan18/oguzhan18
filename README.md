@@ -1,36 +1,38 @@
-## <p align="center">Oğuzhan ÇART </p>   <img    width="250" align="right" src="https://camo.githubusercontent.com/1e5e50f225f7a5ce8aea2a88ed1e3063209bf66a27a4243e16e9775a61dd0c7b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37302f38302f34662f37303830346637653235623131663239646239303466326661376234636439642e676966"> 
-<p>:computer: Web | Mobile Developer</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Oguzhan-banner.png/800px-Oguzhan-banner.png?20220930140954" width="2000" height="300" align="center">
+
+<h2 align="center">Skills</h2>
+
+|Languages|Front End|Back End|
+|--|--|--|
+|<table><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" widht="50" height="50" disable><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" widht="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" widht="50" height="50"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" widht="50" height="50" disable><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" widht="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" widht="50" height="50"> </table>| <table><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" widht="50" height="50" disable><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" widht="50" height="50" disable><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" widht="50" height="50" disable><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" widht="50" height="40" disable><img src="https://angular.io/assets/images/logos/angular/angular.svg" widht="50" height="50" disable><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" widht="50" height="40" disable><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" widht="50" height="50" disable><img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" widht="50" height="40" disable><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" widht="50" height="50" disable>     </table>|<table>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="50" height="50">
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="60">
+</table>
 
 
-### 🛠  Stack
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+|Mobile|Database|Devops|
+|--|--|--|
+|<table><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="80" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="60" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" width="80" height="60"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" width="70" height="50"><img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" width="60" height="50"></table>| <table> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="70" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="80" height="50"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="80" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="60" height="50"></table>|<table>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="50">
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="60" height="50">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="80" height="50"></table>
+ 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31j6rkoadxgyjyje6tqyj4557yuq&width=1000&count=1)
 
-<br />
-<img height="250" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=oguzhan18">
-<img height="150" algin="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=oguzhan18&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
-
-## Contact;
-<a target="_blank" href="https://www.instagram.com/oguzhan_cart/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a target="_blank" href="https://twitter.com/OguzhanCart">
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png"></code>
-</a>
-<a target="_blank" href="https://github.com/oguzhan18">
- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-</a>
-<a target="_blank" href="https://t.me/csharp_document_kaynak">
- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"></code>
-</a> 
+<h2 align="center">Skills</h2>
+<p align="center">
+<a href="https://codepen.io/oguzhan1881" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="oguzhan1881" height="30" width="40" /></a>
+<a href="https://dev.to/oguzhan18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="oguzhan18" height="30" width="40" /></a>
+<a href="https://twitter.com/oguzhancart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oguzhancart" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/o%c4%9fuzhan-%c3%a7art-b73405199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="o%c4%9fuzhan-%c3%a7art-b73405199/" height="30" width="40" /></a>
+<a href="https://codesandbox.com/oguzhan18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="oguzhan18" height="30" width="40" /></a>
+<a href="https://instagram.com/oguzhan_cart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oguzhan_cart" height="30" width="40" /></a>
+<a href="https://dribbble.com/cart188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="cart188" height="30" width="40" /></a>
+<a href="https://hashnode.com/@oguzhancart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@oguzhancart" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/oguzhan18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oguzhan18/" height="30" width="40" /></a>
+</p>
