@@ -21,9 +21,6 @@
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="60" height="50">
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="80" height="50"></table>
-
- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=oguzhan18&theme=github)](https://github.com/oguzhan18)
-
  
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31j6rkoadxgyjyje6tqyj4557yuq&width=1000&count=1)
 
