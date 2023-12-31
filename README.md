@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Oguzhan-banner.png/800px-Oguzhan-banner.png?20220930140954" width="2000" height="300" align="center">
+<img src="./oguzhancart.webp" width="2000" height="300" align="center">
 
 <h2 align="center">Skills</h2>
 
