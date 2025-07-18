@@ -1,34 +1,499 @@
-<img src="./oguzhancart.webp" width="2000" height="300" align="center">
+<div align="center">
 
-<h2 align="center">Skills</h2>
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=OĞUZHAN%20ÇART&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Istanbul%20%7C%20Turning%20Ideas%20Into%20Reality&descAlignY=60&descSize=18"/>
 
-|Languages|Front End|Back End|
-|--|--|--|
-|<table><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" widht="50" height="50" disable><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" widht="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" widht="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" widht="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" widht="50" height="50"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" widht="50" height="50" disable><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" widht="50" height="50"> </table>| <table><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" widht="50" height="50" disable><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" widht="50" height="50" disable><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" widht="50" height="50" disable><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" widht="50" height="40" disable><img src="https://angular.io/assets/images/logos/angular/angular.svg" widht="50" height="50" disable><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" widht="50" height="50" disable><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" widht="50" height="50" disable><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" widht="50" height="50" disable><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" widht="50" height="50" disable><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" widht="50" height="40" disable><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" widht="50" height="50" disable><img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" widht="50" height="40" disable><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" widht="50" height="50" disable>     </table>|<table>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="50" height="50">
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="60">
+<div style="margin-top: -50px;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=130&lines=47+Followers+%E2%80%A2+75+Following+%E2%80%A2+78+Repositories;Building+Digital+Solutions+Since+Day+One;Code+%7C+Create+%7C+Collaborate+%7C+Contribute" alt="Typing SVG" />
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 **DEVELOPER IDENTITY**
+
+</div>
+
+<table>
+<tr>
+<td width="30%" align="center">
+<img src="https://github.com/oguzhan18.png" width="200" style="border-radius: 50%; border: 4px solid #00D9FF;" alt="Oğuzhan ÇART"/>
+<br><br>
+<h3>👨‍💻 OĞUZHAN ÇART</h3>
+<p><strong>@oguzhan18</strong><br>
+📍 Istanbul, Turkey<br>
+💼 Software Developer</p>
+</td>
+<td width="70%">
+
+### 🚀 **MISSION STATEMENT**
+> *"Passionate about creating innovative digital solutions that make a difference. From concept to deployment, I build applications that users love and businesses depend on."*
+
+### 📊 **GITHUB METRICS**
+- 🏆 **78 Repositories** - Active open source contributor
+- 👥 **47 Followers** - Growing developer community  
+- 🤝 **75 Following** - Always learning from others
+- ⭐ **143 Stars** - Recognition for quality work
+
+### 🎯 **CURRENT FOCUS**
+Building scalable web applications, contributing to open source, and exploring cutting-edge technologies in the JavaScript ecosystem.
+
+</td>
+</tr>
 </table>
 
+---
 
-|Mobile|Database
-|--|--|
-|<table><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="80" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="60" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" width="80" height="60"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" width="70" height="50"><img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" width="60" height="50"></table>| <table> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="70" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="80" height="50"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="80" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="60" height="50"></table>
+<div align="center">
+
+# 🛠️ **TECHNOLOGY ECOSYSTEM**
+
+</div>
+<div align="center">
  
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31j6rkoadxgyjyje6tqyj4557yuq&width=1000&count=1)
+### 💻 **LANGUAGES & CORE TECHNOLOGIES**
 
-<h2 align="center">Social Media</h2>
+</div>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=html" width="65"/>
+<br><strong>HTML5</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=css" width="65"/>
+<br><strong>CSS3</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=sass" width="65"/>
+<br><strong>Sass</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=js" width="65"/>
+<br><strong>JavaScript</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=ts" width="65"/>
+<br><strong>TypeScript</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=go" width="65"/>
+<br><strong>Go</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=cs" width="65"/>
+<br><strong>C#</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=python" width="65"/>
+<br><strong>Python</strong>
+</td>
+</tr>
+</table>
+
+</div>
+<div align="center">
+ 
+### 🎨 **FRONTEND MASTERY**
+
+</div>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=react" width="65"/>
+<br><strong>React</strong>
+<br><sub>Component Architecture</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=angular" width="65"/>
+<br><strong>Angular</strong>
+<br><sub>Enterprise Solutions</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nextjs" width="65"/>
+<br><strong>Next.js</strong>
+<br><sub>Full-Stack React</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vue" width="65"/>
+<br><strong>Vue.js</strong>
+<br><sub>Progressive Framework</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nuxtjs" width="65"/>
+<br><strong>Nuxt.js</strong>
+<br><sub>Vue Meta-Framework</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=svelte" width="65"/>
+<br><strong>Svelte</strong>
+<br><sub>Modern Approach</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=astro" width="65"/>
+<br><strong>Astro</strong>
+<br><sub>Static Site Generator</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=tailwind" width="65"/>
+<br><strong>Tailwind</strong>
+<br><sub>Utility-First CSS</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="65"/>
+<br><strong>Bootstrap</strong>
+<br><sub>CSS Framework</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vite" width="65"/>
+<br><strong>Vite</strong>
+<br><sub>Build Tool</sub>
+</td>
+</tr>
+</table>
+
+</div>
+<div align="center">
+ 
+### 📱 **MOBILE DEVELOPMENT**
+
+</div>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=flutter" width="65"/>
+<br><strong>Flutter</strong>
+<br><sub>Cross-Platform</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=dart" width="65"/>
+<br><strong>Dart</strong>
+<br><sub>Flutter Language</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=swift" width="65"/>
+<br><strong>Swift</strong>
+<br><sub>iOS Development</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=kotlin" width="65"/>
+<br><strong>Kotlin</strong>
+<br><sub>Android Development</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=react" width="65"/>
+<br><strong>React Native</strong>
+<br><sub>JS Mobile Framework</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+ 
+### ⚙️ **BACKEND EXCELLENCE**
+
+</div>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nodejs" width="65"/>
+<br><strong>Node.js</strong>
+<br><sub>Server-Side JS</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=express" width="65"/>
+<br><strong>Express</strong>
+<br><sub>Web Framework</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nestjs" width="65"/>
+<br><strong>NestJS</strong>
+<br><sub>Enterprise Node.js</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=dotnet" width="65"/>
+<br><strong>.NET</strong>
+<br><sub>Enterprise Backend</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=spring" width="65"/>
+<br><strong>Spring Boot</strong>
+<br><sub>Java Framework</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=fastapi" width="65"/>
+<br><strong>FastAPI</strong>
+<br><sub>Python API Framework</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=django" width="65"/>
+<br><strong>Django</strong>
+<br><sub>Python Web Framework</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=flask" width="65"/>
+<br><strong>Flask</strong>
+<br><sub>Micro Web Framework</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=graphql" width="65"/>
+<br><strong>GraphQL</strong>
+<br><sub>Query Language</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=prisma" width="65"/>
+<br><strong>Prisma</strong>
+<br><sub>Database ORM</sub>
+</td>
+</tr>
+</table>
+
+</div>
+<div align="center">
+ 
+### 🗄️ **DATABASE & STORAGE**
+
+</div>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mongodb" width="65"/>
+<br><strong>MongoDB</strong>
+<br><sub>NoSQL Database</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postgresql" width="65"/>
+<br><strong>PostgreSQL</strong>
+<br><sub>Relational Database</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="65"/>
+<br><strong>MySQL</strong>
+<br><sub>SQL Database</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=redis" width="65"/>
+<br><strong>Redis</strong>
+<br><sub>In-Memory Store</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=firebase" width="65"/>
+<br><strong>Firebase</strong>
+<br><sub>BaaS Platform</sub>
+</td>
+</tr>
+</table>
+
+</div>
+<div align="center">
+ 
+### 🚀 **DEVOPS & INFRASTRUCTURE**
+
+</div>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=docker" width="65"/>
+<br><strong>Docker</strong>
+<br><sub>Containerization</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="65"/>
+<br><strong>Kubernetes</strong>
+<br><sub>Container Orchestration</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=aws" width="65"/>
+<br><strong>AWS</strong>
+<br><sub>Cloud Platform</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=gcp" width="65"/>
+<br><strong>Google Cloud</strong>
+<br><sub>Cloud Services</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=azure" width="65"/>
+<br><strong>Azure</strong>
+<br><sub>Microsoft Cloud</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=jenkins" width="65"/>
+<br><strong>Jenkins</strong>
+<br><sub>CI/CD Pipeline</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=githubactions" width="65"/>
+<br><strong>GitHub Actions</strong>
+<br><sub>Automation</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=terraform" width="65"/>
+<br><strong>Terraform</strong>
+<br><sub>Infrastructure as Code</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nginx" width="65"/>
+<br><strong>Nginx</strong>
+<br><sub>Web Server</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=linux" width="65"/>
+<br><strong>Linux</strong>
+<br><sub>Server Management</sub>
+</td>
+</tr>
+</table>
+
+</div>
+<div align="center">
+ 
+### 🔧 **DEVELOPMENT TOOLS**
+
+</div>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="65"/>
+<br><strong>Git</strong>
+<br><sub>Version Control</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="65"/>
+<br><strong>GitHub</strong>
+<br><sub>Code Repository</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="65"/>
+<br><strong>VS Code</strong>
+<br><sub>Code Editor</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postman" width="65"/>
+<br><strong>Postman</strong>
+<br><sub>API Testing</sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=figma" width="65"/>
+<br><strong>Figma</strong>
+<br><sub>UI/UX Design</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 **PERFORMANCE DASHBOARD**
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oguzhan18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+</td>
+<td align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhan18&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhan18&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oguzhan18&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
+
+</div>
+
+---
+
+
+<div align="center">
+
+## 🌐 **DIGITAL PRESENCE**
+
+*Let's connect and build something amazing together!*
+
 <p align="center">
-<a href="https://codepen.io/oguzhan1881" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="oguzhan1881" height="30" width="40" /></a>
-<a href="https://dev.to/oguzhan18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="oguzhan18" height="30" width="40" /></a>
-<a href="https://twitter.com/oguzhancart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oguzhancart" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/o%c4%9fuzhan-%c3%a7art-b73405199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="o%c4%9fuzhan-%c3%a7art-b73405199/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/oguzhan18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="oguzhan18" height="30" width="40" /></a>
-<a href="https://instagram.com/oguzhan_cart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oguzhan_cart" height="30" width="40" /></a>
-<a href="https://dribbble.com/cart188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="cart188" height="30" width="40" /></a>
-<a href="https://hashnode.com/@oguzhancart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@oguzhancart" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/oguzhan18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oguzhan18/" height="30" width="40" /></a>
+<a href="https://oguzhancart.dev/">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://linkedin.com/in/oğuzhan-çart-b73405199/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://codepen.io/oguzhan1881">
+<img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
+</a>
+<a href="https://medium.com/@oguzhancart1">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+</a>
 </p>
+
+<p align="center">
+<a href="https://instagram.com/oguzhan_cart">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://twitter.com/oguzhancart">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://dev.to/oguzhan18">
+<img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+</a>
+<a href="https://hashnode.com/@oguzhancart">
+<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
+</a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 **FEATURED PROJECTS**
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 **Web Applications**
+```typescript
+const expertise = {
+  frontend: ["React", "Angular", "Next.js", "Nuxt.js"],
+  backend: ["Node.js", "Express", ".NET", "Python"],
+  database: ["MongoDB", "PostgreSQL"],
+  deployment: ["Vercel", "AWS", "Docker"]
+}
