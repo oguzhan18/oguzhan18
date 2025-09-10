@@ -1,15 +1,6 @@
 <div align="center">
 
 <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=OĞUZHAN%20ÇART&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Istanbul%20%7C%20Turning%20Ideas%20Into%20Reality&descAlignY=60&descSize=18"/>
-
-<div style="margin-top: -50px;">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=130&lines=47+Followers+%E2%80%A2+75+Following+%E2%80%A2+78+Repositories;Building+Digital+Solutions+Since+Day+One;Code+%7C+Create+%7C+Collaborate+%7C+Contribute" alt="Typing SVG" />
-</div>
-
-</div>
-
----
-
 <div align="center">
 
 ## 🌟 **DEVELOPER IDENTITY**
@@ -446,26 +437,3 @@ Building scalable web applications, contributing to open source, and exploring c
 </p>
 
 </div>
-
----
-
-<div align="center">
-
-## 💡 **FEATURED PROJECTS**
-
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 **Web Applications**
-```typescript
-const expertise = {
-  frontend: ["React", "Angular", "Next.js", "Nuxt.js"],
-  backend: ["Node.js", "Express", ".NET", "Python"],
-  database: ["MongoDB", "PostgreSQL"],
-  deployment: ["Vercel", "AWS", "Docker"]
-}
